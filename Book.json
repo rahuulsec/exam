@@ -1,0 +1,39 @@
+{
+  "books": [
+    {
+      "id": "1",
+      "bname": "making of india",
+      "bno": "120",
+      "bauthor": "Chetan Bhagat",
+      "bprice": "1200"
+    },
+    {
+      "id": "2",
+      "bname": "Half Girlfriend",
+      "bno": "150",
+      "bauthor": "Chetan Bhagat",
+      "bprice": "350"
+    },
+    {
+      "id": "3",
+      "bname": " Girlfriend",
+      "bno": "1250",
+      "bauthor": "V.S Naipaul",
+      "bprice": "750"
+    },
+    {
+      "id": "4",
+      "bname": "A Call to Honour",
+      "bno": "1543",
+      "bauthor": "Jaswant Singh",
+      "bprice": "455"
+    },
+    {
+      "bname": "hhhhh",
+      "bno": "66",
+      "bauthor": "bvb",
+      "bprice": "88",
+      "id": "EvzOL0x"
+    }
+  ]
+}
